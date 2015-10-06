@@ -1,4 +1,4 @@
-
+/** THIS WAS COPIED OFF OF SOME FORUM.  I DID NOT MAKE THIS!!! */
 
 /**
  * Class for computing a windowed fast Fourier transform.
